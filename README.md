@@ -8,7 +8,7 @@ What can be said about Rob Ford? As Americans looking into the Canadian politica
 
 ```> "I'm not conceited, but I had sort of rock star status there.[Toronto]"```
 
-**--A Rockstar**
+**-A Rockstar**
 
 ```> "Yes, I have smoked crack cocaine. But am I an addict? No. Have I tried it? Probably, in one of my drunken stupors.''```
 
