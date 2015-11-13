@@ -1,6 +1,25 @@
 # Rob::Oulette
 
-TODO: Write a gem description
+What can be said about Rob Ford? As Americans looking into the Canadian political process, we have many questions. Who is this man, what is he to us? Let us turn to the man himself.
+
+> "Olivia Gondek. It said I want to eat her pussy. I've never said that in my life to her. I would never do that. I'm happily married. I've got more than enough to eat at home."
+
+**-A Happily Married Man**
+
+> "I'm not conceited, but I had sort of rock star status there.[Toronto]"
+
+**-A Rockstar**
+
+> "Yes, I have smoked crack cocaine. But am I an addict? No. Have I tried it? Probably, in one of my drunken stupors.''```
+
+**-Not an Addict**
+
+> "There's a lot of people who have done what I've done."
+
+**-An Everyman** 
+
+Let us celebrate Rob Ford's life, in pictures, together.
+
 
 ## Installation
 
